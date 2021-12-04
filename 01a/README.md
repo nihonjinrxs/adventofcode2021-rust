@@ -12,6 +12,7 @@ As the submarine drops below the surface of the ocean, it automatically performs
 
 For example, suppose you had the following report:
 
+```{txt}
 199
 200
 208
@@ -22,6 +23,7 @@ For example, suppose you had the following report:
 269
 260
 263
+```
 
 This report indicates that, scanning outward from the submarine, the sonar sweep found depths of 199, 200, 208, 210, and so on.
 
