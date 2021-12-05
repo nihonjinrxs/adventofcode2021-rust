@@ -94,7 +94,7 @@ fn main() {
         }
     }
     println!(
-        "Day 2, Part A. Submarine is at ({}p, {}d) aim {}, with value {}.",
+        "Day 2, Part B. Submarine is at ({}p, {}d) aim {}, with value {}.",
         &submarine.position,
         &submarine.depth,
         &submarine.aim,
